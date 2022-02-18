@@ -4,6 +4,6 @@ wordle是一個猜字遊戲，目標是猜對當天的五個字母的單字(每�
 ![](https://images.dappei.com/uploads/article_image/image/108599/medium_3b8ef3ed9eae240d.jpg)
 
 ## 而這個Project就是可以幫助使用者找出今天的Wordle。
-我用excel當作輸入介面，
+我用excel當作輸入介面，如下圖
 ![](img/main_ui1.png)
-
+把已經得到的資訊分別填到相對應的位置，執行檔案後最後會產生另一個excel檔把該單字列表列出來。
