@@ -5,5 +5,5 @@ wordle是一個猜字遊戲，目標是猜對當天的五個字母的單字(每�
 
 ## 而這個Project就是可以幫助使用者找出今天的Wordle。
 我用excel當作輸入介面，
-![](img/main ui1.png)
+![](img/main_ui1.png)
 
